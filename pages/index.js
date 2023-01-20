@@ -1,6 +1,6 @@
 /* eslint-disable @next/next/no-img-element */
 import Head from 'next/head';
-import Banner from '../components/banner';
+import Banner from '../components/Banner';
 import Event from '../components/Event';
 import Faqs from '../components/Faqs';
 import Footer from '../components/Footer';
