@@ -1,0 +1,29 @@
+<svg
+            
+            width="2"
+            height="726"
+            viewBox="0 0 2 726"
+            fill="none"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M1 1V725"
+              stroke="url(#paint0_linear_0_39)"
+              strokeWidth="2"
+              strokeLinecap="round"
+            />
+            <defs>
+              <linearGradient
+                id="paint0_linear_0_39"
+                x1="1.5"
+                y1="1"
+                x2="1.5"
+                y2="725"
+                gradientUnits="userSpaceOnUse"
+              >
+                <stop stop-opacity="0" />
+                <stop offset="0.465243" />
+                <stop offset="1" stop-opacity="0" />
+              </linearGradient>
+            </defs>
+          </svg>
